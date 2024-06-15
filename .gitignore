@@ -8,7 +8,6 @@
 .env.production.local
 
 # Build output
-/build
 
 # IDE files
 /.vscode
