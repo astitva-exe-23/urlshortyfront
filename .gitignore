@@ -1,5 +1,5 @@
 # Dependency directories
-/node_modules
+.node_modules
 
 # Environment files
 .env.local
@@ -8,7 +8,7 @@
 .env.production.local
 
 # Build output
-/build
+
 
 # IDE files
 /.vscode
@@ -25,3 +25,4 @@ yarn-error.log*
 
 # Editor specific files
 *.swp
+node_modules
